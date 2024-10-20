@@ -1,1 +1,1 @@
-# Activity-6-Scientific-Data-Visualiozation
+# Activity-6-Scientific-Data-Visualization
